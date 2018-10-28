@@ -81,3 +81,4 @@ Husk at comitte og pushe til Git repo (GitHub). :octocat:
 Prøv at sikre at der ikke kan indtastes en fødselsmåned som ligger udenfor intervallet 1-12
 
 
+EDIT.
